@@ -8,10 +8,8 @@ A high‑impact, visually rich profile README. Safe widgets only (no custom Acti
   <img src="https://capsule-render.vercel.app/api?type=venom&height=260&text=Sanchit%20Bhatnagar&fontAlignY=40&fontColor=ffffff&color=0:8A2387,50:E94057,100:F27121&stroke=ffffff&fontSize=56&animation=fadeIn&desc=React%20•%20Node.js%20•%20GraphQL%20•%20TypeScript&descAlignY=62&descSize=18" alt="Header banner"/>
 </p>
 
-<!-- TYPING HEADLINE -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?size=22&pause=1100&center=true&vCenter=true&width=900&lines=Full‑Stack+JavaScript+Engineer;GraphQL+APIs+%26+Scalable+Systems;React+%2B+Node.js+%2B+TypeScript;Clean+Architecture+%7C+DX+%7C+Performance" alt="Typing headline"/>
-</p>
+<!-- Typing headline -->
+[![Typing headline](https://readme-typing-svg.demolab.com?size=20&pause=1200&center=true&vCenter=true&width=800&lines=Software+Engineer+%E2%80%A2+Full‑Stack+JavaScript;React+%C2%B7+Node.js+%C2%B7+GraphQL;Performance+Optimization+%7C+Scalable+Backends+%7C+DX+Enthusiast)](https://git.io/typing-svg)
 
 <!-- CTA + SOCIALS -->
 <p align="center">
@@ -104,7 +102,7 @@ Open to **collab**, **speaking**, and **mentoring** across web engineering, perf
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=SanchitB23&label=Profile%20Views&color=12&icon=5&pretty=true" alt="visitor badge" />
+  <img src="https://komarev.com/ghpvc/?username=SanchitB23&style=flat&label=Profile+Views" alt="profile views"/>
 </p>
 
 <!--
