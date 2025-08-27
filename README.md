@@ -6,11 +6,7 @@
 </p>
 
 <!-- Typing headline -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?size=20&pause=1200&center=true&vCenter=true&width=800&lines=Software+Engineer+%E2%80%A2+Full‑Stack+JavaScript;React+%C2%B7+Node.js+%C2%B7+GraphQL;Performance+Optimization+%7C+Scalable+Backends+%7C+DX+Enthusiast" alt="Typing headline"/>
-  </a>
-</p>
+[![Typing headline](https://readme-typing-svg.demolab.com?size=20&pause=1200&center=true&vCenter=true&width=800&lines=Software+Engineer+%E2%80%A2+Full‑Stack+JavaScript;React+%C2%B7+Node.js+%C2%B7+GraphQL;Performance+Optimization+%7C+Scalable+Backends+%7C+DX+Enthusiast)](https://git.io/typing-svg)
 
 <!-- Primary CTAs -->
 <p align="center">
