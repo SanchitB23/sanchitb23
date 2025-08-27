@@ -77,16 +77,6 @@ A high‑impact, visually rich profile README. Safe widgets only (no custom Acti
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SanchitB23&radius=8&area=true&bg_color=0d1117&color=70A5FD&line=38BDAE&point=FFFFFF&hide_border=true" alt="Activity Graph" />
 </p>
 
----
-
-## 🧩 Developer Fuel
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote"/>
-</p>
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=tokyonight" alt="Jokes"/>
-</p>
 
 ---
 
